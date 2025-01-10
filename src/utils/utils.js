@@ -8,3 +8,7 @@ export const splitDocs = async (docs) => {
 
     return listOfSplitDocs;
 };
+
+
+
+

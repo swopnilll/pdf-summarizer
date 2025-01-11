@@ -14,11 +14,12 @@
   "license": "ISC",
   "dependencies": {
     "@langchain/community": "^0.3.23",
-    "@langchain/core": "^0.3.27",
+    "@langchain/core": "^0.3.29",
+    "@langchain/openai": "^0.3.17",
     "axios": "^1.7.9",
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
-    "langchain": "^0.3.10",
+    "langchain": "^0.3.11",
     "pdf-parse": "^1.1.1"
   },
   "devDependencies": {
